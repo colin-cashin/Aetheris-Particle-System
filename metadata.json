@@ -1,0 +1,8 @@
+{
+  "name": "Aetheris AI Particle System",
+  "description": "A high-performance 3D particle system featuring sacred geometric morphing controlled by real-time AI hand gestures via Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
